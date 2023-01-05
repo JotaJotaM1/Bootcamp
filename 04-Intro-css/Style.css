@@ -1,0 +1,28 @@
+h1 {
+    color: red;
+}
+
+/*Estoy probando colores y fuentes*/
+
+p {
+    /* color: blue; */
+}
+
+#noticia1 {
+    color: aqua;
+}
+
+.noticia2 {
+    color: blueviolet;
+}
+
+*{
+    color: black;
+}
+
+.Autor, .Fecha, .GPS{
+    text-decoration: overline;
+} 
+button{
+    color: coral;
+}

@@ -1,0 +1,19 @@
+.colores{
+    color: #49beaa;
+    font-size: 50px;
+}
+
+.colores-hexadecimal{
+    color: #ef767a;
+    font-size: 50px;
+}
+
+.colores_rgb{
+    color: rgb(90, 100, 0);
+    font-size: 50px;
+}
+
+.colores_rgba{
+    color: rgba(10, 10, 10, 0.301);
+    font-size: 50px;
+}
