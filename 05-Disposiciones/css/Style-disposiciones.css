@@ -1,0 +1,23 @@
+.cont-1, .cont-2{
+    background-color: red;
+
+    /* por defecto los div tienes display block, se posiciona uno debajo del otro*/
+
+}
+img{
+    width: 100px;
+    height: 100px;
+    /* por defecto las img tienes display inline-block*/
+}
+
+.span1{
+    background-color: aqua;
+    float: left;
+    /* por defecto los span tienes display inline, se posiciona uno al lado del otro, se pueden mover con un float*/
+}
+
+.span2{
+    background-color: aqua;
+    float: right;
+    /* por defecto los span tienes display inline, se posiciona uno al lado del otro, se pueden mover con un float*/
+}
