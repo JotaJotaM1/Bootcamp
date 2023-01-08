@@ -38,4 +38,27 @@ background-repeat: no-repeat;
 background-size:cover;
 }
 
+/*tamanios*/
+
+.ancho{
+    background-color: chartreuse;
+    width: 100px;
+}
+
+.alto{
+    background-color: aqua;
+    height: 200px;
+    width: 300px;
+}
+
+.tarjeta{
+    border-style: solid;
+    border-color: rgb(150, 150, 150);
+    border-width: 1px;
+    width: 300px;
+    margin: 20px 10px ;
+    padding: 10px, 20px;
+    
+}
+
 
