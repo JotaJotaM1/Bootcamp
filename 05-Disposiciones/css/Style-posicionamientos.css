@@ -1,0 +1,43 @@
+div {
+  border: 1px solid gray;
+  padding: 5px;
+  margin: 10px 0;
+  background-color: white;
+}
+
+.relative{
+    position:relative;
+    left: 40px;
+}
+.fixed{
+    width: 400px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: chartreuse;
+}
+.contenedor{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+   
+    
+    
+
+}
+.Absolute{
+    position:absolute;
+    width: 100px;
+    background-color: white;
+    top: -60px;
+    right: 225PX;
+    border-radius: 100%;
+}
+
+.sticky{
+    position: sticky;
+    background-color: blueviolet;
+    color: white;
+    top: 0;
+}
