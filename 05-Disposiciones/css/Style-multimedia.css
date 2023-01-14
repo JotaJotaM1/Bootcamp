@@ -1,0 +1,18 @@
+.wallpaper {
+    width: 100vw;
+}
+.wallpaper:hover{
+    opacity: 0.5;
+}
+.paisajes{
+    width: 150px;
+}
+.paisajes:hover{
+    cursor: pointer;
+    opacity: 0.5;
+}
+.galeriaContain{
+    display: flex;
+    flex-wrap: wrap;
+    gap:10px;
+}
