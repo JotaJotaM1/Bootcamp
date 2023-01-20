@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Chivo', sans-serif;
+    font-size: 60px;
+}
+
+.video{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+}
+.header{
+    height: 100vh;
+    position: relative;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
